@@ -1,8 +1,6 @@
-# TPaul_Z_Mass_JHEP
+# Z Boson Mass Reconconstruction L3 vs. ATLAS Using Fast Detector Simulations
+
 Python3 script used to generate data with Delphes 3.5, with Pythia8 included. Generates all files necessary for data production.
-
-
-# TO BE UPDATED !!!
 
 ---
 

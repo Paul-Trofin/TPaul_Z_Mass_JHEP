@@ -4,8 +4,8 @@ Python3 script used to generate data with Delphes 3.5, with Pythia8 included. Ge
 
 ---
 
-## Delphes Macro Files Generator
-### ~one python file~
+# Delphes Macro Files Generator
+        one python file
 
 ---
 
